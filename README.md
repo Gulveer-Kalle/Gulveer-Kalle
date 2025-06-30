@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gulveer Kalle
+# 👋 Hello, I'm Gulveer Kalle
 
 🎓 Computer Science student at Toronto Metropolitan University  
 💻 Passionate about mobile & web app development  
@@ -17,7 +17,7 @@
 
 ### 📌 Projects Showcase
 
-- 🚗 [Vehicle Rental System (Java)](https://github.com/gulveerkalle/vehicle-rental-java)
+- 🎮 [Newton's Law Game (JavaScript)](https://github.com/Gulveer-Kalle/Newton-s-Law)
 
 ---
 
