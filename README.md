@@ -18,7 +18,7 @@
 ### 📌 Projects Showcase
 
 - 🎮 [Newton's Law Game (JavaScript)](https://github.com/Gulveer-Kalle/Newton-s-Law)
-
+- 🚗 [Vehicle Rental System (Java)](https://github.com/Gulveer-Kalle/vehicle-rental-system)
 ---
 
 ### 📫 Let’s Connect
