@@ -19,6 +19,8 @@
 
 - 🎮 [Newton's Law Game (JavaScript)](https://github.com/Gulveer-Kalle/Newton-s-Law)
 - 🚗 [Vehicle Rental System (Java)](https://github.com/Gulveer-Kalle/vehicle-rental-system)
+- 🏏 [Cricket Chatbot - Stella (Python/JSON)](https://github.com/Gulveer-Kalle/Cricket-Chatbot-Stella)  
+
 ---
 
 ### 📫 Let’s Connect
