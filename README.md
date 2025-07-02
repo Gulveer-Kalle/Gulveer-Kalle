@@ -10,7 +10,7 @@
 ### 🔧 Technologies I work with:
 - **Languages**: Java, Python, JavaScript, HTML, CSS
 - **Frameworks & Tools**: React Native, Firebase, Wix, Replit, WordPress, Git
-- **Design**: UI/UX, Adobe Photoshop
+- **Design**: UI/UX, Adobe Photoshop, Adobe Premiere Pro
 
 ---
 
