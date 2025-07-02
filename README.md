@@ -3,8 +3,7 @@
 🎓 Computer Science student at Toronto Metropolitan University  
 💻 Passionate about mobile & web app development  
 🛠️ Working with React Native, Firebase, Java, Python, JavaScript, HTML  
-🌐 Skilled with Wix, Replit, WordPress, Git, and Adobe Photoshop  
-📁 Explore my [projects](https://github.com/gulveerkalle?tab=repositories)
+🌐 Skilled with Wix, Replit, WordPress, Git, Adobe Photoshop, Adobe Premiere Pro
 
 ---
 
