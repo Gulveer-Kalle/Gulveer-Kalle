@@ -24,5 +24,5 @@
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/gulveer-singh-75a66134a/)
 - 📧 Email: gulveerkalle@gmail.com
