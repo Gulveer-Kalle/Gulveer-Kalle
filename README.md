@@ -19,7 +19,7 @@
 - 🎮 [Newton's Law Game (JavaScript)](https://github.com/Gulveer-Kalle/Newton-s-Law)
 - 🚗 [Vehicle Rental System (Java)](https://github.com/Gulveer-Kalle/vehicle-rental-system)
 - 🤖 [Cricket Chatbot - Stella (Python/JSON)](https://github.com/Gulveer-Kalle/Cricket-Chatbot-Stella)
-- 🏏 [Score Keeper – Cricket Match Management App (React Native/Firebase)](https://github.com/Gulveer-Kalle/Score-Keeper)
+- 🏏 [Score Keeper – Cricket Scoring App (React Native/Firebase)](https://github.com/Gulveer-Kalle/Score-Keeper)
 
 ---
 
