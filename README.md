@@ -18,11 +18,12 @@
 
 - 🎮 [Newton's Law Game (JavaScript)](https://github.com/Gulveer-Kalle/Newton-s-Law)
 - 🚗 [Vehicle Rental System (Java)](https://github.com/Gulveer-Kalle/vehicle-rental-system)
-- 🏏 [Cricket Chatbot - Stella (Python/JSON)](https://github.com/Gulveer-Kalle/Cricket-Chatbot-Stella)  
+- 🤖 [Cricket Chatbot - Stella (Python/JSON)](https://github.com/Gulveer-Kalle/Cricket-Chatbot-Stella)
+- 🏏 [Score Keeper – Cricket Match App (React Native/Firebase)](https://github.com/Gulveer-Kalle/Score-Keeper)
 
 ---
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/gulveer-singh-75a66134a/)
-- 📧 Email: gulveerkalle@gmail.com
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gulveer-singh-75a66134a/)
+- 📧 Email: [gulveerkalle@gmail.com](mailto:gulveerkalle@gmail.com)
