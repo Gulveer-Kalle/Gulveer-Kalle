@@ -19,8 +19,8 @@ January 2025 - 2029 (Expected)
 
 ## 🚀 Projects
 
-- 🎓 [**Co-op Management System (Co-op Connect) — CPS 406 Group Project**](https://github.com/Gulveer-Kalle/Co-op-Connect)
-- 🚗 [**Vehicle Rental System (TranspoRent) — CPS 209 Project**](https://github.com/Gulveer-Kalle/vehicle-rental-system)
+- 🎓 [**Co-op Management System (Co-op Connect) - CPS 406 Group Project**](https://github.com/Gulveer-Kalle/Co-op-Connect)
+- 🚗 [**Vehicle Rental System (TranspoRent) - CPS 209 Project**](https://github.com/Gulveer-Kalle/vehicle-rental-system)
 - 🤖 [**AI Cricket Chatbot (Stella)**](https://github.com/Gulveer-Kalle/Cricket-Chatbot-Stella)
 - 📱 [**Cricket Scoring App (Score Keeper)**](https://github.com/Gulveer-Kalle/Score-Keeper)
 - 🎮 [**Physics-Based Game (Newton’s Law)**](https://github.com/Gulveer-Kalle/Newtons-Law)
